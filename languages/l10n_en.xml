@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+		<text name="Tab_trackStraight"     	text="Straight Track"/>
+		<text name="Tab_trackCurve"     	text="Curved Track"/>
+		<text name="Tab_trackMisc"     		text="Misc Track"/>
+		<text name="Tab_railroadExtras"  	text="Railroad Extras"/>
+		<text name="Tab_trenches"   		text="Trenches"/>
+		<text name="Tab_pipes"   	    	text="Pipes"/>
+	</texts>
+</l10n>

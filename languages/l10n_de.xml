@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+		<text name="Tab_Building"     	text="Tri-State Buildings"/>
+		<text name="Tab_BuildableKit"  	text="Tri-State Build Kits"/>
+		<text name="Tab_Shed"   		text="Tri-State Sheds"/>
+		<text name="Tab_Septic"  		text="Tri-State Septic"/>
+		<text name="Tab_Propane"     	text="Tri-State Propane"/>
+		<text name="Tab_Placeable"    	text="Tri-State Placeables"/>
+	</texts>
+</l10n>

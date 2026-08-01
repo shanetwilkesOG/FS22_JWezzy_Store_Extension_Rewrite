@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="74">
+    <author>TSC / JWeezy</author>
+    <version>1.0.0.0</version>
+
+    <title>
+        <en>JWeezy Construction Store Category</en>
+    </title>
+    <description>
+	    <en>JWeezy Construction Store Catagorys</en>
+    </description>
+
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true"/>
+	
+	<l10n filenamePrefix="languages/l10n"/>
+	
+	<extraSourceFiles>
+		<sourceFile filename="scripts/addStoreExtension.lua" />
+	</extraSourceFiles>
+
+</modDesc>
